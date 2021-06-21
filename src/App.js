@@ -43,7 +43,7 @@ function App() {
   return (
     <ApolloProvider client={client}>
       <div className="App">
-        <h1>hi</h1>
+        <h1>hello</h1>
         <PullRequests/>
       </div>
     </ApolloProvider>
